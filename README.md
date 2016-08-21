@@ -1,4 +1,4 @@
-# cmd-bel
+# obel
 
 Produce BEL sound in Windows Console.
 
@@ -22,8 +22,3 @@ Produce BEL sound in Windows Console.
 :: produce 4 BELs after copy is over
 > copy src.zip dst.zip & obel 4
 ```
-
-
-## license
-
-You have a Poké ball? That's enough!
