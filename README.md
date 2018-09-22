@@ -1,12 +1,11 @@
-# obel
-
 Produce BEL sound in Windows Console.
+> 1. Download [console script](https://raw.githubusercontent.com/winp/extra-cd/master/ecd.cmd).
+> 2. Copy to `C:\Program_Files\Scripts`.
+> 3. Add `C:\Program_Files\Scripts` to `PATH` environment variable.
 
-
-## usage
 
 ```batch
-> obel [<count>]
+> ebel [<count>]
 
 :: [] -> optional argument
 :: <> -> argument value
@@ -14,11 +13,14 @@ Produce BEL sound in Windows Console.
 
 ```batch
 :: produce one BEL
-> obel
+> ebel
 
 :: produce 4 BELs
-> obel 4
+> ebel 4
 
 :: produce 4 BELs after copy is over
-> copy src.zip dst.zip & obel 4
+> copy src.zip dst.zip & ebel 4
 ```
+
+
+[![Merferry](https://i.imgur.com/HgNA3W8.jpg)](https://merferry.github.io)

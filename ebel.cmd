@@ -1,4 +1,4 @@
-:: OBEL - ring bells
+:: EBEL - ring bells
 @echo off
 setlocal enabledelayedexpansion
 
