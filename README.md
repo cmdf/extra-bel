@@ -1,5 +1,5 @@
 Produce BEL sound in Windows Console.
-> 1. Download [console script](https://github.com/winp/extra-bel/releases/download/1.0.0/ebel.cmd).
+> 1. Download [console script](https://github.com/cmdf/extra-bel/releases/download/1.0.0/ebel.cmd).
 > 2. Copy to `C:\Program_Files\Scripts`.
 > 3. Add `C:\Program_Files\Scripts` to `PATH` environment variable.
 
@@ -23,4 +23,4 @@ Produce BEL sound in Windows Console.
 ```
 
 
-[![Merferry](https://i.imgur.com/HgNA3W8.jpg)](https://merferry.github.io)
+[![cmdf](https://i.imgur.com/HgNA3W8.jpg)](https://cmdf.github.io)
