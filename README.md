@@ -1,5 +1,5 @@
 Produce BEL sound in Windows Console.
-> 1. Download [console script](https://raw.githubusercontent.com/winp/extra-bel/master/ecd.cmd).
+> 1. Download [console script](https://github.com/winp/extra-bel/releases/download/1.0.0/ebel.cmd).
 > 2. Copy to `C:\Program_Files\Scripts`.
 > 3. Add `C:\Program_Files\Scripts` to `PATH` environment variable.
 
